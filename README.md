@@ -15,6 +15,8 @@ python run.py linucb  # run LinUCB experiments
 python run.py lints  # run Linear Thompson Sampling experiments
 ```
 
+To run experiments related to Trustworthy Recommender Systems, run code in experiments.ipynb in TrustworthyMAB folder.
+
 All the results are going to be saved in `results/` sub-directory.
 
 ## Visualize Results
