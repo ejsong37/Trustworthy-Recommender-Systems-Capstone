@@ -1,6 +1,11 @@
-# mabs: A Unified Framework for Multi-Armed Bandit Analysis
+# Trustworthy Recommender Systems via Bayesian Bandits Capsone
 
-A framework for multi-armed bandit agents and environments.
+<h2> <u> About </u> </h2>
+
+Team Members: Eric Song, Xiqiang Liu, Hien Bui, Vivek Saravanan
+
+Mentor: Yuhua Zhu
+<hr>
 
 ## Running Experiments
 ```bash
