@@ -5,7 +5,12 @@
 ### Mentor: Yuhua Zhu
 
 ## About
-Recommender systems have emerged as a simple yet powerful framework for the suggestion of relevant items to users. However, a potential issue arises when recommender systems overly recommend or spam undesired products to users in which the model loses the trust of the user. We propose a constrained bandit-based recommender system. We show this model outperforms Upper Confidence Bound (UCB) and Thompson sampling in terms of expected regret and does not lose the trust of the users.
+Recommender systems have emerged as a simple yet powerful framework for the suggestion of relevant items to users. However, a potential issue arises when recommender systems overly recommend or spam undesired products to users in which the model loses the trust of the user. We propose a constrained bandit-based recommender system. We show this model outperforms Upper Confidence Bound (UCB) and Thompson sampling in terms of expected regret and does not lose the trust of the users. This work was presented at the Halıcıoğlu Data Science Institute Capstone Showcase on March 15th, 2023 at UC San Diego.
+
+## Resources
+- [Website](https://hi3nb1.github.io/capstone/)
+- [Poster](https://drive.google.com/file/d/1BjS6ZcwmB4TsGctyS56vNxZsTev8F0zF/view)
+- [Report](https://drive.google.com/file/d/10VEKJZ_TWxqBKimkeTWUmmYjivagMGZJ/view)
 
 ## Running Experiments
 ```bash
